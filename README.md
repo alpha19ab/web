@@ -21,7 +21,7 @@ Please refer to the Choreo documentation under the [Develop an Application with 
     | **Branch**            | **`main`**                               |
     | **Buildpack**      | NodeJs|
     | **Select Go Project Directory**       | hello-world-nodejs-task |
-    | **Select Language Version**              | 16.x.x |
+    | **Select Language Version**              | 20.x.x |
 
 3. Click Create. Once the component creation is complete, you will see the component overview page.
 4. Deploy the created component
